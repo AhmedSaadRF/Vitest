@@ -1,0 +1,13 @@
+{
+  "name": "vitest-calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator with Vitest tests",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest watch"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.1"
+  }
+}
